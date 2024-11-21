@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#FFE8B8</color>
+    <color name="colorPrimaryVariant">#FFBC63</color>
+    <color name="colorSecondary">#03DAC5</color>  <!-- Secondary Color -->
+
+    <!-- Text and Background Colors -->
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorGray">#A9A9A9</color>
+    <color name="colorDarkGray">#555555</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorPeach">#ffe5b4</color>
+</resources>
